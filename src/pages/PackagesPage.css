@@ -1,0 +1,113 @@
+.backdrop-icon {
+  width: 99.563rem;
+  height: 188.938rem;
+  position: relative;
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.path-20-icon4 {
+  position: absolute;
+  top: -30.125rem;
+  left: -69.625rem;
+  width: 153.563rem;
+  height: 215.938rem;
+}
+.frame-child28,
+.frame-child29,
+.frame-child30,
+.mask-group-6,
+.mask-group-61,
+.mask-group-62 {
+  position: absolute;
+  top: 21.688rem;
+  left: 21.25rem;
+  width: 29.625rem;
+  height: 21.119rem;
+  object-fit: cover;
+  z-index: 1;
+}
+.frame-child29,
+.frame-child30,
+.mask-group-6,
+.mask-group-61,
+.mask-group-62 {
+  top: 45.431rem;
+}
+.frame-child29,
+.frame-child30,
+.mask-group-61,
+.mask-group-62 {
+  top: 69.169rem;
+}
+.frame-child29,
+.frame-child30,
+.mask-group-62 {
+  top: 92.913rem;
+}
+.frame-child29,
+.frame-child30 {
+  top: 116.65rem;
+}
+.frame-child30 {
+  top: 140.394rem;
+}
+.path-20-parent {
+  width: 93.519rem;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.frame-parent12,
+.packagespage-inner {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent12 {
+  width: 42.644rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 2.625rem;
+}
+.packagespage-inner {
+  width: 83.231rem;
+  flex-direction: row;
+  justify-content: center;
+}
+.packagespage {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-80xl) 15.363rem var(--padding-72xl);
+  box-sizing: border-box;
+  gap: 73.844rem;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1050px) {
+  .packagespage {
+    gap: 36.938rem 73.844rem;
+    padding-left: var(--padding-26xl);
+    padding-right: var(--padding-30xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent12 {
+    gap: 1.313rem 2.625rem;
+  }
+  .packagespage {
+    gap: 18.438rem 73.844rem;
+    padding-left: var(--padding-3xl);
+    padding-right: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+}

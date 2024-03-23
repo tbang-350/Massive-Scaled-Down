@@ -1,0 +1,108 @@
+.path-15-icon2 {
+  position: absolute;
+  top: calc(50% - 168.95px);
+  left: calc(50% + 158.65px);
+  width: 11.4rem;
+  height: 10.556rem;
+}
+.view-this-trip2 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-nexa-black);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.view-this-trip-button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-darkorange);
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-lg) var(--padding-xl);
+  box-sizing: border-box;
+  white-space: nowrap;
+  height: 100%;
+}
+.view-this-trip-button-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 15.688rem;
+  left: 11.688rem;
+  width: 20.125rem;
+  height: 3.25rem;
+  z-index: 2;
+}
+.div2 {
+  position: absolute;
+  top: 3.538rem;
+  left: 33.65rem;
+  display: inline-block;
+  width: 6.738rem;
+  height: 1.881rem;
+  min-width: 6.738rem;
+  white-space: nowrap;
+  z-index: 3;
+}
+.span2 {
+  font-family: var(--font-inter);
+}
+.per-person2 {
+  position: absolute;
+  top: 5.981rem;
+  left: 34.325rem;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 5.419rem;
+  height: 0.944rem;
+  min-width: 5.419rem;
+  z-index: 3;
+}
+.day-materuni,
+.lake-manyara,
+.tarangire-serengeti {
+  margin: 0;
+}
+.day-materuni-container {
+  position: absolute;
+  top: 2.463rem;
+  left: 2.063rem;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 27.688rem;
+  height: 5.5rem;
+  z-index: 3;
+}
+.mask-group2 {
+  position: absolute;
+  top: 92.913rem;
+  left: 50.875rem;
+  width: 42.644rem;
+  height: 21.119rem;
+  overflow: hidden;
+  z-index: 2;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1050px) {
+  .day-materuni-container,
+  .div2 {
+    font-size: var(--font-size-5xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .day-materuni-container,
+  .div2 {
+    font-size: var(--font-size-lg);
+  }
+}

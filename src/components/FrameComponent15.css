@@ -1,0 +1,219 @@
+.path-20-icon6 {
+  height: 152.244rem;
+  width: 108.275rem;
+  position: absolute;
+  margin: 0 !important;
+  top: -79.687rem;
+  left: -39.419rem;
+}
+.frame-child67 {
+  align-self: stretch;
+  flex: 1;
+  background-color: var(--color-white);
+  max-width: 100%;
+}
+.included4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.included-wrapper2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.frame-child68 {
+  height: 2.444rem;
+  width: 2.444rem;
+}
+.accommodation4,
+.frame-child68 {
+  position: relative;
+}
+.accommodation-wrapper1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.frame-parent61,
+.frame-parent62 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent62 {
+  flex-direction: row;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-6xl);
+}
+.frame-parent61 {
+  flex-direction: column;
+  gap: var(--gap-34xl);
+  min-width: 24.631rem;
+  max-width: 100%;
+}
+.arusha-to-serengeti-child {
+  height: 2.444rem;
+  width: 2.444rem;
+  position: relative;
+}
+.round-trip-airport-transfer4 {
+  position: relative;
+  text-transform: capitalize;
+}
+.round-trip-airport-transfer-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.arusha-to-serengeti1 {
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: var(--gap-20xl);
+}
+.arusha-to-serengeti1,
+.frame-parent60,
+.wildlife-tour-map {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.wildlife-tour-map {
+  width: 26.569rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-20xl);
+  min-width: 26.569rem;
+}
+.frame-parent60 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 var(--padding-35xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-xbold);
+}
+.frame-parent58,
+.frame-parent59 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent59 {
+  width: 67.138rem;
+  margin: 0 !important;
+  position: absolute;
+  top: 3.625rem;
+  left: 2.938rem;
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-14xl);
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-parent58 {
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  position: relative;
+}
+.container4,
+.day-inner22,
+.frame-parent58,
+.path-20-group {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.container4 {
+  flex: 1;
+  border-radius: var(--br-8xs);
+  border: 5px solid var(--color-darkorange);
+  box-sizing: border-box;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.day-inner22,
+.path-20-group {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.path-20-group {
+  width: 72.844rem;
+  justify-content: flex-start;
+  position: relative;
+}
+.day-inner22 {
+  height: 76.938rem;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-51xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1200px) {
+  .day-inner22 {
+    padding-bottom: var(--padding-26xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .included4 {
+    font-size: var(--font-size-5xl);
+  }
+  .frame-parent61,
+  .wildlife-tour-map {
+    flex: 1;
+  }
+  .frame-parent60 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent61 {
+    min-width: 100%;
+  }
+  .arusha-to-serengeti1 {
+    flex-wrap: wrap;
+  }
+  .wildlife-tour-map {
+    min-width: 100%;
+  }
+  .day-inner22 {
+    padding-bottom: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .included4 {
+    font-size: var(--font-size-lg);
+  }
+  .accommodation4 {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent62 {
+    flex-wrap: wrap;
+  }
+  .round-trip-airport-transfer4 {
+    font-size: var(--font-size-base);
+  }
+}

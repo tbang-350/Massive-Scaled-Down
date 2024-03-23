@@ -1,0 +1,542 @@
+.day-inner14 {
+  width: 76.438rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-35xl) var(--padding-13xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child20 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.start-your-adventure2 {
+  height: 15.919rem;
+  width: 58.056rem;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent11 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-73xl) var(--padding-xl) 5.644rem;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.day-23 {
+  margin: 0;
+  width: 46.75rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.day-2-serengeti-national-par-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-parent7 {
+  width: 71.188rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-36xl);
+  max-width: 100%;
+}
+.day-inner15,
+.day-item {
+  align-self: stretch;
+  max-width: 100%;
+}
+.day-inner15 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.day-item {
+  position: relative;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-child21 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.set-off-on6 {
+  height: 11.988rem;
+  width: 52.1rem;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-104xl) var(--padding-xl) 7.638rem var(--padding-2xl);
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.day-310 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-3-ngorongoro-crater-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-parent8 {
+  width: 71.188rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-36xl);
+  max-width: 100%;
+}
+.day-child1,
+.day-inner16 {
+  align-self: stretch;
+  max-width: 100%;
+}
+.day-inner16 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.day-child1 {
+  position: relative;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-child22 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.set-off-on7 {
+  height: 12.006rem;
+  width: 56.181rem;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent13 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-104xl) var(--padding-xl) 7.619rem;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.day-311 {
+  margin: 0;
+  width: 46.063rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.day-3-ngorongoro-crater-wrapper2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-parent9 {
+  width: 71.188rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-36xl);
+  max-width: 100%;
+}
+.day-child2,
+.day-inner17 {
+  align-self: stretch;
+  max-width: 100%;
+}
+.day-inner17 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.day-child2 {
+  position: relative;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-child23 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.set-off-on8 {
+  height: 13.563rem;
+  width: 57.813rem;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent14 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-91xl) var(--padding-xl);
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.day-312 {
+  margin: 0;
+  width: 40.063rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.day-3-ngorongoro-crater-wrapper3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-parent10 {
+  width: 71.188rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-36xl);
+  max-width: 100%;
+}
+.day-child3,
+.day-inner18 {
+  align-self: stretch;
+  max-width: 100%;
+}
+.day-inner18 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.day-child3 {
+  position: relative;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-child24 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.set-off-on9 {
+  height: 15rem;
+  width: 49.875rem;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent15 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-80xl) var(--padding-xl) 6.125rem;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.day-313 {
+  margin: 0;
+  width: 52.188rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.day-3-ngorongoro-crater-wrapper4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-parent11 {
+  width: 71.188rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-36xl);
+  max-width: 100%;
+}
+.day-inner19,
+.day4 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.day-inner19 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.day4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) 0 7.438rem;
+  gap: var(--gap-36xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .day-inner14 {
+    padding-left: var(--padding-8xl);
+    padding-right: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .day-23,
+  .day-310,
+  .day-311,
+  .day-312,
+  .day-313 {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .day4,
+  .frame-parent10,
+  .frame-parent11,
+  .frame-parent7,
+  .frame-parent8,
+  .frame-parent9 {
+    gap: 1.688rem 3.438rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .start-your-adventure2 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .rectangle-parent11 {
+    padding-top: var(--padding-41xl);
+    padding-bottom: var(--padding-40xl);
+    box-sizing: border-box;
+  }
+  .day-23 {
+    font-size: var(--font-size-5xl);
+  }
+  .set-off-on6 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .rectangle-parent12 {
+    padding-top: var(--padding-61xl);
+    padding-bottom: var(--padding-60xl);
+    box-sizing: border-box;
+  }
+  .day-310 {
+    font-size: var(--font-size-5xl);
+  }
+  .set-off-on7 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .rectangle-parent13 {
+    padding-top: var(--padding-61xl);
+    padding-bottom: var(--padding-60xl);
+    box-sizing: border-box;
+  }
+  .day-311 {
+    font-size: var(--font-size-5xl);
+  }
+  .set-off-on8 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .rectangle-parent14 {
+    padding-top: var(--padding-52xl);
+    padding-bottom: var(--padding-52xl);
+    box-sizing: border-box;
+  }
+  .day-312 {
+    font-size: var(--font-size-5xl);
+  }
+  .set-off-on9 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .rectangle-parent15 {
+    padding-top: var(--padding-45xl);
+    padding-bottom: var(--padding-45xl);
+    box-sizing: border-box;
+  }
+  .day-313 {
+    font-size: var(--font-size-5xl);
+  }
+}

@@ -1,0 +1,157 @@
+.day-18,
+.itinerary4 {
+  margin: 0;
+  position: relative;
+  font-weight: 400;
+}
+.itinerary4 {
+  font-size: inherit;
+  font-family: inherit;
+}
+.day-18 {
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-nexa-light);
+  color: var(--color-dimgray-200);
+}
+.itinerary-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-10xl);
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.day-28,
+.day-315,
+.day-316,
+.day-317,
+.day-318 {
+  display: inline-block;
+  max-width: 100%;
+}
+.day-28,
+.day-315,
+.day-316,
+.day-317,
+.day-318,
+.day-319 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-3-ngorongoro-crater-wrapper5 {
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.day-3-ngorongoro-crater-wrapper5,
+.frame-parent64,
+.frame-wrapper6 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent64 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+}
+.frame-wrapper6 {
+  width: 60.688rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-51xl);
+  box-sizing: border-box;
+}
+.day-19 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-1-arusha-to-serengeti-na-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-child69,
+.frame-parent63 {
+  align-self: stretch;
+  max-width: 100%;
+}
+.frame-child69 {
+  position: relative;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-parent63 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-36xl);
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-light);
+}
+@media screen and (max-width: 1050px) {
+  .itinerary4 {
+    font-size: var(--font-size-13xl);
+  }
+  .day-18,
+  .day-28,
+  .day-315,
+  .day-316,
+  .day-317,
+  .day-318,
+  .day-319 {
+    font-size: var(--font-size-5xl);
+  }
+  .day-19 {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent64 {
+    gap: 1.5rem 3rem;
+  }
+  .frame-wrapper6 {
+    padding-bottom: var(--padding-26xl);
+    box-sizing: border-box;
+  }
+  .frame-parent63 {
+    gap: 1.688rem 3.438rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .itinerary4 {
+    font-size: var(--font-size-5xl);
+  }
+  .day-18,
+  .day-28,
+  .day-315,
+  .day-316,
+  .day-317,
+  .day-318,
+  .day-319 {
+    font-size: var(--font-size-lg);
+  }
+  .day-19 {
+    font-size: var(--font-size-5xl);
+  }
+}

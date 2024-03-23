@@ -1,0 +1,251 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+@font-face {
+  font-family: "Nexa Black";
+  src: url("/public/Nexa-Black.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Nexa Heavy";
+  src: url("/public/Nexa-Heavy.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Nexa Light";
+  src: url("/public/Nexa-Light.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Nexa XBold";
+  src: url("/public/Nexa-XBold.ttf");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Nexa Book";
+  src: url("/public/Nexa-Book.ttf");
+  font-weight: 400;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-nexa-black: "Nexa Black";
+  --font-nexa-light: "Nexa Light";
+  --font-nexa-heavy: "Nexa Heavy";
+  --font-nexa-book: "Nexa Book";
+  --font-nexa-xbold: "Nexa XBold";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-11xl: 1.875rem;
+  --font-size-xl: 1.25rem;
+  --font-size-base: 1rem;
+  --font-size-21xl: 2.5rem;
+  --font-size-13xl: 2rem;
+  --font-size-5xl: 1.5rem;
+  --font-size-lg: 1.125rem;
+  --font-size-6xl: 1.563rem;
+  --font-size-26xl: 2.813rem;
+  --font-size-8xl: 1.688rem;
+  --font-size-17xl: 2.25rem;
+  --font-size-19xl: 2.375rem;
+  --font-size-4xl: 1.438rem;
+  --font-size-16xl: 2.188rem;
+  --font-size-2xl: 1.313rem;
+  --font-size-9xl: 1.75rem;
+  --font-size-xs: 0.75rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-linen: #f5f0ea;
+  --color-darkorange: #f78f1f;
+  --color-chocolate: #c45c00;
+  --color-royalblue: #0143ae;
+  --color-gray-100: #17181a;
+  --color-gray-200: rgba(255, 255, 255, 0.77);
+  --color-blanchedalmond: rgba(253, 231, 205, 0.31);
+  --color-dimgray-100: #707070;
+  --color-dimgray-200: #65676c;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-12xl: 1.938rem;
+  --gap-mini: 0.938rem;
+  --gap-9xs: 0.25rem;
+  --gap-110xl: 8.063rem;
+  --gap-16xl: 2.188rem;
+  --gap-mid: 1.063rem;
+  --gap-xl: 1.25rem;
+  --gap-58xl: 4.813rem;
+  --gap-59xl: 4.875rem;
+  --gap-20xl: 2.438rem;
+  --gap-lgi: 1.188rem;
+  --gap-11xl: 1.875rem;
+  --gap-14xl: 2.063rem;
+  --gap-15xl: 2.125rem;
+  --gap-34xl: 3.313rem;
+  --gap-6xl: 1.563rem;
+  --gap-31xl: 3.125rem;
+  --gap-25xl: 2.75rem;
+  --gap-27xl-8: 2.925rem;
+  --gap-4xl: 1.438rem;
+  --gap-33xl: 3.25rem;
+  --gap-33xl-3: 3.269rem;
+  --gap-7xl: 1.625rem;
+  --gap-71xl: 5.625rem;
+  --gap-3xl: 1.375rem;
+  --gap-26xl: 2.813rem;
+  --gap-5xl: 1.5rem;
+  --gap-33xl-8: 3.3rem;
+  --gap-32xl: 3.188rem;
+  --gap-35xl: 3.375rem;
+  --gap-8xl: 1.688rem;
+  --gap-40xl: 3.688rem;
+  --gap-26xl-8: 2.863rem;
+  --gap-23xl: 2.625rem;
+  --gap-2xl: 1.313rem;
+  --gap-64xl-5: 5.219rem;
+  --gap-56xl: 4.688rem;
+  --gap-18xl: 2.313rem;
+  --gap-37xl: 3.5rem;
+  --gap-36xl: 3.438rem;
+  --gap-36xl-5: 3.469rem;
+  --gap-9xl: 1.75rem;
+  --gap-55xl: 4.625rem;
+  --gap-lg: 1.125rem;
+  --gap-29xl: 3rem;
+  --gap-10xl: 1.813rem;
+  --gap-63xl: 5.125rem;
+  --gap-22xl: 2.563rem;
+  --gap-13xl: 2rem;
+  --gap-base: 1rem;
+  --gap-sm: 0.875rem;
+  --gap-51xl: 4.375rem;
+  --gap-20xl-9: 2.494rem;
+  --gap-3xs-1: 0.569rem;
+  --gap-4xs: 0.563rem;
+  --gap-251xl-5: 16.906rem;
+  --gap-116xl: 8.438rem;
+  --gap-49xl: 4.25rem;
+  --gap-142xl-3: 10.081rem;
+  --gap-21xl: 2.5rem;
+  --gap-62xl: 5.063rem;
+  --gap-7xs-4: 0.338rem;
+  --gap-3xs: 0.625rem;
+  --gap-19xl: 2.375rem;
+
+  /* Paddings */
+  --padding-11xs: 0.125rem;
+  --padding-137xl: 9.75rem;
+  --padding-55xl: 4.625rem;
+  --padding-111xl: 8.125rem;
+  --padding-66xl: 5.313rem;
+  --padding-23xl: 2.625rem;
+  --padding-18xl: 2.313rem;
+  --padding-2xl: 1.313rem;
+  --padding-65xl: 5.25rem;
+  --padding-8xl: 1.688rem;
+  --padding-xl: 1.25rem;
+  --padding-7xl: 1.625rem;
+  --padding-9xs-5: 0.219rem;
+  --padding-12xs: 0.063rem;
+  --padding-537xl: 34.75rem;
+  --padding-342xl: 22.563rem;
+  --padding-216xl: 14.688rem;
+  --padding-138xl: 9.813rem;
+  --padding-141xl: 10rem;
+  --padding-2xs: 0.688rem;
+  --padding-3xs: 0.625rem;
+  --padding-3xl: 1.375rem;
+  --padding-22xl-2: 2.575rem;
+  --padding-25xl: 2.75rem;
+  --padding-40xl: 3.688rem;
+  --padding-19xl: 2.375rem;
+  --padding-4xs: 0.563rem;
+  --padding-5xs: 0.5rem;
+  --padding-34xl: 3.313rem;
+  --padding-13xl: 2rem;
+  --padding-51xl: 4.375rem;
+  --padding-31xl: 3.125rem;
+  --padding-24xl: 2.688rem;
+  --padding-36xl: 3.438rem;
+  --padding-299xl-5: 19.906rem;
+  --padding-188xl: 12.938rem;
+  --padding-smi: 0.813rem;
+  --padding-20xl: 2.438rem;
+  --padding-60xl: 4.938rem;
+  --padding-26xl: 2.813rem;
+  --padding-69xl: 5.5rem;
+  --padding-68xl: 5.438rem;
+  --padding-38xl: 3.563rem;
+  --padding-6xs-5: 0.406rem;
+  --padding-3xl-5: 1.406rem;
+  --padding-202xl: 13.813rem;
+  --padding-91xl: 6.875rem;
+  --padding-10xl: 1.813rem;
+  --padding-35xl: 3.375rem;
+  --padding-8xs-5: 0.281rem;
+  --padding-9xs: 0.25rem;
+  --padding-8xs: 0.313rem;
+  --padding-37xl: 3.5rem;
+  --padding-12xl: 1.938rem;
+  --padding-82xl: 6.313rem;
+  --padding-25xl-1: 2.756rem;
+  --padding-27xl: 2.875rem;
+  --padding-17xl-4: 2.275rem;
+  --padding-4xl: 1.438rem;
+  --padding-5xl: 1.5rem;
+  --padding-72xl: 5.688rem;
+  --padding-54xl: 4.563rem;
+  --padding-29xl: 3rem;
+  --padding-28xl: 2.938rem;
+  --padding-9xl: 1.75rem;
+  --padding-21xl: 2.5rem;
+  --padding-61xl: 5rem;
+  --padding-17xl: 2.25rem;
+  --padding-6xs: 0.438rem;
+  --padding-57xl: 4.75rem;
+  --padding-6xl: 1.563rem;
+  --padding-30xl: 3.063rem;
+  --padding-58xl: 4.813rem;
+  --padding-22xl: 2.563rem;
+  --padding-14xl: 2.063rem;
+  --padding-94xl: 7.063rem;
+  --padding-97xl: 7.25rem;
+  --padding-56xl: 4.688rem;
+  --padding-14xl-5: 2.094rem;
+  --padding-11xl: 1.875rem;
+  --padding-xs: 0.75rem;
+  --padding-105xl: 7.75rem;
+  --padding-62xl: 5.063rem;
+  --padding-73xl: 5.75rem;
+  --padding-80xl: 6.188rem;
+  --padding-45xl: 4rem;
+  --padding-52xl: 4.438rem;
+  --padding-104xl: 7.688rem;
+  --padding-87xl: 6.625rem;
+  --padding-50xl: 4.313rem;
+  --padding-41xl: 3.75rem;
+  --padding-6xs-8: 0.425rem;
+  --padding-59xl: 4.875rem;
+  --padding-8xl-5: 1.719rem;
+  --padding-20xl-1: 2.444rem;
+  --padding-210xl-5: 14.344rem;
+  --padding-14xl-1: 2.069rem;
+  --padding-mid-5: 1.094rem;
+  --padding-5xs-8: 0.488rem;
+  --padding-20xl-2: 2.45rem;
+  --padding-2xs-8: 0.675rem;
+  --padding-lgi-9: 1.244rem;
+  --padding-lg: 1.125rem;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-27xl: 46px;
+  --br-6xs: 7px;
+}

@@ -1,0 +1,306 @@
+.mask-group-4 {
+  height: 36.813rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+.mask-group-2,
+.mask-group-3 {
+  height: 35.063rem;
+  width: 60rem;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.mask-group-2 {
+  z-index: 2;
+}
+.component-2-1,
+.mask-group-1,
+.mask-group-4-parent {
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+}
+.mask-group-4-parent {
+  width: 120rem;
+  height: 36.813rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-2-1,
+.mask-group-1 {
+  width: 100%;
+  height: 43.313rem;
+  right: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.component-2-1 {
+  object-fit: cover;
+  z-index: 4;
+}
+.karibu-isles {
+  margin: 0;
+}
+.frame-child,
+.karibu-isles-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 5;
+}
+.karibu-isles-container {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 47.5rem;
+  height: 7.875rem;
+}
+.frame-child {
+  height: 100%;
+  bottom: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkorange);
+  width: 12.813rem;
+  cursor: pointer;
+}
+.build-your-safari {
+  position: absolute;
+  top: 1.25rem;
+  left: 0.938rem;
+  display: inline-block;
+  width: 12.563rem;
+  height: 1.5rem;
+  z-index: 6;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 6.125rem;
+  left: 0;
+  width: 13.5rem;
+  height: 3.438rem;
+  font-size: var(--font-size-xl);
+}
+.karibu-isles-savannah-parent {
+  height: 9.563rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.homepagev2-inner {
+  width: 52.875rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-24xl) 8.938rem;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-item {
+  height: 8.313rem;
+  width: 120rem;
+  position: relative;
+  background-color: var(--color-linen);
+  display: none;
+  max-width: 100%;
+}
+.embark-on-a {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 1;
+}
+.component-3-1,
+.rectangle-group {
+  align-self: stretch;
+  max-width: 100%;
+}
+.rectangle-group {
+  background-color: var(--color-linen);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-34xl) var(--padding-xl) var(--padding-31xl)
+    var(--padding-2xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.component-3-1 {
+  position: relative;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.mask-group-17,
+.travel-quote-instance-child {
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+}
+.mask-group-17 {
+  width: 120rem;
+  left: -0.062rem;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.travel-quote-instance-child {
+  width: calc(100% - 18px);
+  right: 1.125rem;
+  left: 0;
+  background-color: var(--color-gray-200);
+  z-index: 2;
+}
+.adventures,
+.your-gateway-to {
+  margin: 0;
+}
+.your-gateway-to-container {
+  margin: 0;
+  align-self: stretch;
+  height: 4.369rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.discover-more-with,
+.we-are-committed {
+  margin-block-start: 0;
+  margin-block-end: 20px;
+}
+.our-tailor-made-tour {
+  margin: 0;
+}
+.discover-more-with-container {
+  width: 53.5rem;
+  height: 23.938rem;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 2rem;
+  font-family: var(--font-nexa-light);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 3;
+}
+.mask-group-17-parent,
+.travel-quote-instance {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.travel-quote-instance {
+  margin-left: -0.062rem;
+  width: 61.188rem;
+  flex-direction: column;
+  padding: 3.056rem var(--padding-34xl) 6.7rem;
+  box-sizing: border-box;
+  gap: 4.375rem;
+}
+.mask-group-17-parent {
+  align-self: stretch;
+  flex-direction: row;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-heavy);
+}
+.homepagev2-child {
+  align-self: stretch;
+  height: 6.688rem;
+  position: relative;
+  background-color: transparent;
+  display: none;
+  z-index: 8;
+}
+.homepagev2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 3.125rem;
+  color: var(--color-white);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1050px) {
+  .karibu-isles-container {
+    font-size: var(--font-size-21xl);
+  }
+  .homepagev2-inner {
+    padding-left: var(--padding-2xl);
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .embark-on-a,
+  .your-gateway-to-container {
+    font-size: var(--font-size-5xl);
+  }
+  .travel-quote-instance {
+    gap: 2.188rem 4.375rem;
+    padding-left: var(--padding-7xl);
+    padding-right: var(--padding-7xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .travel-quote-instance {
+    gap: 1.063rem 4.375rem;
+    padding-top: var(--padding-13xl);
+    padding-bottom: var(--padding-51xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .karibu-isles-container {
+    font-size: var(--font-size-11xl);
+  }
+  .build-your-safari {
+    font-size: var(--font-size-base);
+  }
+  .embark-on-a,
+  .your-gateway-to-container {
+    font-size: var(--font-size-lg);
+  }
+  .discover-more-with-container {
+    font-size: var(--font-size-base);
+    line-height: 1.625rem;
+  }
+}

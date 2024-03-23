@@ -1,0 +1,202 @@
+.frame-child57 {
+  align-self: stretch;
+  flex: 1;
+  background-color: var(--color-white);
+  max-width: 100%;
+}
+.included2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.included-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.frame-child58 {
+  height: 2.444rem;
+  width: 2.444rem;
+}
+.accommodation2,
+.frame-child58 {
+  position: relative;
+}
+.accommodation-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.frame-parent43,
+.frame-parent44 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent44 {
+  flex-direction: row;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-6xl);
+}
+.frame-parent43 {
+  flex-direction: column;
+  gap: var(--gap-34xl);
+  min-width: 24.631rem;
+  max-width: 100%;
+}
+.itinerary-overview-child {
+  height: 2.444rem;
+  width: 2.444rem;
+  position: relative;
+}
+.round-trip-airport-transfer2 {
+  position: relative;
+  text-transform: capitalize;
+}
+.round-trip-airport-transfer-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.frame-parent45,
+.itinerary-overview {
+  justify-content: flex-start;
+  gap: var(--gap-20xl);
+}
+.itinerary-overview {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent45 {
+  width: 26.569rem;
+  flex-direction: column;
+  min-width: 26.569rem;
+}
+.frame-parent41,
+.frame-parent42,
+.frame-parent45 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent42 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 var(--padding-35xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-xbold);
+}
+.frame-parent41 {
+  width: 67.138rem;
+  margin: 0 !important;
+  position: absolute;
+  top: 3.625rem;
+  left: 2.938rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-14xl);
+  z-index: 1;
+}
+.container-frame,
+.container2,
+.frame-parent40 {
+  align-self: stretch;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent40 {
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  position: relative;
+}
+.container-frame,
+.container2 {
+  justify-content: center;
+}
+.container2 {
+  width: 72.844rem;
+  border-radius: var(--br-8xs);
+  border: 5px solid var(--color-darkorange);
+  flex-direction: column;
+  align-items: center;
+  z-index: 1;
+}
+.container-frame {
+  height: 77.375rem;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl) var(--padding-58xl);
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1200px) {
+  .container-frame {
+    padding-bottom: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .included2 {
+    font-size: var(--font-size-5xl);
+  }
+  .frame-parent43,
+  .frame-parent45 {
+    flex: 1;
+  }
+  .frame-parent42 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent43 {
+    min-width: 100%;
+  }
+  .itinerary-overview {
+    flex-wrap: wrap;
+  }
+  .frame-parent45 {
+    min-width: 100%;
+  }
+  .container-frame {
+    padding-bottom: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .included2 {
+    font-size: var(--font-size-lg);
+  }
+  .accommodation2 {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent44 {
+    flex-wrap: wrap;
+  }
+  .round-trip-airport-transfer2 {
+    font-size: var(--font-size-base);
+  }
+}

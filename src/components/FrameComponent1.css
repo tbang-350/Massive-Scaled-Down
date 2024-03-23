@@ -1,0 +1,114 @@
+.layer-2-icon {
+  height: 3.156rem;
+  width: 13.75rem;
+  position: relative;
+}
+.contacts {
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 4.5rem;
+}
+.contacts-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  cursor: pointer;
+}
+.about {
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 3.125rem;
+}
+.about-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.customize-your-trip {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-nexa-heavy);
+  color: var(--color-white);
+  text-align: left;
+  white-space: nowrap;
+}
+.actionbutton,
+.frame-parent13 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.actionbutton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: var(--color-darkorange);
+  border-radius: var(--br-8xs);
+  justify-content: center;
+  white-space: nowrap;
+}
+.actionbutton:hover {
+  background-color: var(--color-chocolate);
+}
+.frame-parent13 {
+  justify-content: flex-start;
+  gap: var(--gap-58xl);
+  max-width: 100%;
+}
+.navbarcontainer,
+.navbarcontainer-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.navbarcontainer {
+  width: 110.625rem;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-smi) 0;
+  gap: var(--gap-xl);
+  z-index: 6;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-nexa-black);
+}
+.navbarcontainer-wrapper {
+  height: 24.688rem;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-36xl) var(--padding-299xl-5);
+}
+@media screen and (max-width: 1200px) {
+  .navbarcontainer-wrapper {
+    padding-left: var(--padding-8xl);
+    padding-right: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent13 {
+    display: none;
+    gap: 4.813rem 2.375rem;
+  }
+  .navbarcontainer {
+    width: 77.5rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-parent13 {
+    gap: 4.813rem 1.188rem;
+  }
+  .navbarcontainer-wrapper {
+    padding-bottom: var(--padding-188xl);
+    box-sizing: border-box;
+  }
+}

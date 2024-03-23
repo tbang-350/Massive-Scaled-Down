@@ -1,0 +1,268 @@
+.excluded1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.excluded-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.path-22-icon5 {
+  position: absolute;
+  top: calc(50% - 19.55px);
+  left: calc(50% - 19.55px);
+  width: 2.444rem;
+  height: 2.444rem;
+}
+.set-off-on-journey-panel {
+  position: absolute;
+  top: calc(50% - 1.65px);
+  left: calc(50% - 10.35px);
+  background-color: var(--color-darkorange);
+  width: 1.319rem;
+  height: 0.2rem;
+  z-index: 1;
+}
+.path-22-parent3 {
+  height: 2.444rem;
+  width: 2.444rem;
+  position: relative;
+  opacity: 0.59;
+}
+.international-airfare-flight1 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 25.375rem;
+  max-width: 100%;
+}
+.frame-parent47 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-25xl);
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-child59,
+.path-22-icon6 {
+  position: absolute;
+  top: calc(50% - 19.55px);
+  left: calc(50% - 19.55px);
+  width: 2.444rem;
+  height: 2.444rem;
+}
+.frame-child59 {
+  top: calc(50% - 1.65px);
+  left: calc(50% - 10.35px);
+  background-color: var(--color-darkorange);
+  width: 1.319rem;
+  height: 0.2rem;
+  z-index: 1;
+}
+.path-22-parent4 {
+  height: 2.444rem;
+  width: 2.444rem;
+  position: relative;
+  opacity: 0.59;
+}
+.alcoholic-beverages-and1 {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 17.625rem;
+  max-width: 100%;
+}
+.frame-parent48 {
+  width: 36.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--gap-25xl);
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-child60,
+.path-22-icon7 {
+  position: absolute;
+  top: calc(50% - 19.55px);
+  left: calc(50% - 19.55px);
+  width: 2.444rem;
+  height: 2.444rem;
+}
+.frame-child60 {
+  top: calc(50% - 1.65px);
+  left: calc(50% - 10.35px);
+  background-color: var(--color-darkorange);
+  width: 1.319rem;
+  height: 0.2rem;
+  z-index: 1;
+}
+.path-22-parent5 {
+  height: 2.444rem;
+  width: 2.444rem;
+  position: relative;
+  opacity: 0.59;
+}
+.gratuities-tips1 {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+}
+.frame-parent49 {
+  width: 18.794rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-25xl);
+}
+.frame-child61,
+.path-22-icon8 {
+  position: absolute;
+  top: calc(50% - 19.55px);
+  left: calc(50% - 19.55px);
+  width: 2.444rem;
+  height: 2.444rem;
+}
+.frame-child61 {
+  top: calc(50% - 1.65px);
+  left: calc(50% - 10.35px);
+  background-color: var(--color-darkorange);
+  width: 1.319rem;
+  height: 0.2rem;
+  z-index: 1;
+}
+.path-22-parent6 {
+  height: 2.444rem;
+  width: 2.444rem;
+  position: relative;
+  opacity: 0.59;
+}
+.personal-funds-for1 {
+  margin: 0;
+}
+.personal-funds-for-container1 {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 22.813rem;
+  max-width: 100%;
+}
+.frame-parent50 {
+  width: 40.256rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-25xl);
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-child62,
+.path-22-icon9 {
+  position: absolute;
+  top: calc(50% - 19.55px);
+  left: calc(50% - 19.55px);
+  width: 2.444rem;
+  height: 2.444rem;
+}
+.frame-child62 {
+  top: calc(50% - 1.55px);
+  left: calc(50% - 10.35px);
+  background-color: var(--color-darkorange);
+  width: 1.319rem;
+  height: 0.2rem;
+  z-index: 1;
+}
+.path-22-parent7 {
+  height: 2.444rem;
+  width: 2.444rem;
+  position: relative;
+  opacity: 0.59;
+}
+.travel-insurance-sleeping1 {
+  position: relative;
+  text-transform: capitalize;
+}
+.frame-parent51 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-25xl);
+  max-width: 100%;
+}
+.frame-parent46,
+.journey-to-national-park-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent46 {
+  align-self: stretch;
+  padding: 0 var(--padding-37xl);
+  box-sizing: border-box;
+  gap: var(--gap-31xl);
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-xbold);
+}
+.journey-to-national-park-panel {
+  width: 51.194rem;
+  margin: 0 !important;
+  position: absolute;
+  top: 38rem;
+  left: 3.688rem;
+  gap: var(--gap-lgi);
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1050px) {
+  .excluded1 {
+    font-size: var(--font-size-5xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .international-airfare-flight1 {
+    min-width: 100%;
+  }
+  .frame-parent47,
+  .frame-parent48 {
+    flex-wrap: wrap;
+  }
+  .personal-funds-for-container1 {
+    min-width: 100%;
+  }
+  .frame-parent50,
+  .frame-parent51 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .excluded1 {
+    font-size: var(--font-size-lg);
+  }
+  .alcoholic-beverages-and1,
+  .gratuities-tips1,
+  .international-airfare-flight1,
+  .personal-funds-for-container1,
+  .travel-insurance-sleeping1 {
+    font-size: var(--font-size-base);
+  }
+}

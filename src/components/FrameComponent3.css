@@ -1,0 +1,52 @@
+.frame-child47 {
+  height: 2.444rem;
+  width: 2.444rem;
+  position: relative;
+}
+.all-meals-included,
+.lunch-dinner {
+  margin: 0;
+  text-transform: capitalize;
+}
+.mineral-water1 {
+  text-transform: capitalize;
+}
+.mineral-water {
+  margin: 0;
+}
+.all-meals-included-container {
+  height: 5.25rem;
+  position: relative;
+  display: inline-block;
+}
+.all-meals-included-breakfast-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-8xs-5) var(--padding-3xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent20 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-15xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-xbold);
+}
+@media screen and (max-width: 750px) {
+  .frame-parent20 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .all-meals-included-container {
+    font-size: var(--font-size-base);
+  }
+}

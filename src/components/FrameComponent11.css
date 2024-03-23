@@ -1,0 +1,202 @@
+.frame-child64 {
+  align-self: stretch;
+  flex: 1;
+  background-color: var(--color-white);
+  max-width: 100%;
+}
+.included3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.included-wrapper1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.frame-child65 {
+  height: 2.444rem;
+  width: 2.444rem;
+}
+.accommodation3,
+.frame-child65 {
+  position: relative;
+}
+.wildlife-encounters-panel {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.begin-your-expedition-panel,
+.frame-parent55 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent55 {
+  flex-direction: row;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-6xl);
+}
+.begin-your-expedition-panel {
+  flex-direction: column;
+  gap: var(--gap-34xl);
+  min-width: 24.631rem;
+  max-width: 100%;
+}
+.arusha-to-ngorongoro-child {
+  height: 2.444rem;
+  width: 2.444rem;
+  position: relative;
+}
+.round-trip-airport-transfer3 {
+  position: relative;
+  text-transform: capitalize;
+}
+.third-day-at-ngorongoro {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.arusha-to-ngorongoro,
+.day-tour-info {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-20xl);
+  max-width: 100%;
+}
+.arusha-to-ngorongoro {
+  flex-direction: row;
+  padding: 0;
+  box-sizing: border-box;
+}
+.day-tour-info {
+  width: 26.569rem;
+  flex-direction: column;
+  min-width: 26.569rem;
+}
+.begin-your-expedition-panel-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 var(--padding-35xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-xbold);
+}
+.frame-parent54 {
+  width: 67.138rem;
+  margin: 0 !important;
+  position: absolute;
+  top: 3.625rem;
+  left: 2.938rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-14xl);
+  max-width: 100%;
+  z-index: 1;
+}
+.container-wrapper1,
+.container3,
+.frame-parent53 {
+  align-self: stretch;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent53 {
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  position: relative;
+}
+.container-wrapper1,
+.container3 {
+  justify-content: center;
+}
+.container3 {
+  width: 72.844rem;
+  border-radius: var(--br-8xs);
+  border: 5px solid var(--color-darkorange);
+  flex-direction: column;
+  align-items: center;
+  z-index: 1;
+}
+.container-wrapper1 {
+  height: 80.313rem;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl) var(--padding-105xl) var(--padding-25xl);
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1200px) {
+  .container-wrapper1 {
+    padding-left: var(--padding-3xl);
+    padding-bottom: var(--padding-62xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .included3 {
+    font-size: var(--font-size-5xl);
+  }
+  .begin-your-expedition-panel,
+  .day-tour-info {
+    flex: 1;
+  }
+  .begin-your-expedition-panel-parent {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 750px) {
+  .begin-your-expedition-panel {
+    min-width: 100%;
+  }
+  .arusha-to-ngorongoro {
+    flex-wrap: wrap;
+  }
+  .day-tour-info {
+    min-width: 100%;
+  }
+  .container-wrapper1 {
+    padding-bottom: var(--padding-34xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .included3 {
+    font-size: var(--font-size-lg);
+  }
+  .accommodation3 {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent55 {
+    flex-wrap: wrap;
+  }
+  .round-trip-airport-transfer3 {
+    font-size: var(--font-size-base);
+  }
+}

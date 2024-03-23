@@ -1,0 +1,184 @@
+.component-5-1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-5-1-wrapper {
+  height: 35.281rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs-5) 0 0;
+  box-sizing: border-box;
+  min-width: 24rem;
+  max-width: 100%;
+}
+.frame-child40 {
+  height: 35.063rem;
+  width: 60rem;
+  position: relative;
+  background-color: var(--color-linen);
+  display: none;
+  max-width: 100%;
+}
+.expert-chat {
+  height: 17.625rem;
+  width: 17.625rem;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-darkorange);
+  min-width: 17.625rem;
+}
+.our-specialists-are,
+.talk-to-an {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.talk-to-an {
+  margin: 0;
+  height: 3.063rem;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  max-width: 100%;
+}
+.our-specialists-are {
+  align-self: stretch;
+  height: 2.063rem;
+  font-size: var(--font-size-xl);
+  text-transform: uppercase;
+}
+.talk-to-an-expert-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  max-width: 100%;
+}
+.frame-child41 {
+  height: 5.188rem;
+  width: 29.875rem;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkorange);
+  display: none;
+  max-width: 100%;
+}
+.picture-elephants {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  text-transform: uppercase;
+  font-family: var(--font-nexa-black);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.expert-help,
+.expert-help-wrapper,
+.frame-button {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-8xl) var(--padding-xl) var(--padding-7xl);
+  background-color: var(--color-darkorange);
+  width: 29.875rem;
+  border-radius: var(--br-3xs);
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.frame-button:hover {
+  background-color: var(--color-chocolate);
+}
+.expert-help,
+.expert-help-wrapper {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.expert-help {
+  align-self: stretch;
+  gap: var(--gap-mini);
+}
+.expert-help-wrapper {
+  flex: 1;
+  min-width: 19.813rem;
+  min-height: 14.313rem;
+}
+.contactcontainer,
+.rectangle-parent21 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent21 {
+  flex: 0.8344;
+  background-color: var(--color-linen);
+  overflow: hidden;
+  align-items: flex-end;
+  padding: var(--padding-137xl) var(--padding-55xl) var(--padding-111xl)
+    var(--padding-66xl);
+  gap: var(--gap-12xl);
+  min-width: 24rem;
+  margin-left: -0.125rem;
+}
+.contactcontainer {
+  align-self: stretch;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+  z-index: 3;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1050px) {
+  .expert-chat {
+    flex: 1;
+  }
+  .talk-to-an {
+    font-size: var(--font-size-13xl);
+  }
+  .expert-help-wrapper {
+    min-height: auto;
+  }
+  .rectangle-parent21 {
+    flex-wrap: wrap;
+    padding-left: var(--padding-23xl);
+    padding-right: var(--padding-18xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .rectangle-parent21 {
+    gap: 1.938rem 0.938rem;
+    padding-left: var(--padding-2xl);
+    padding-bottom: var(--padding-65xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .talk-to-an {
+    font-size: var(--font-size-5xl);
+  }
+  .our-specialists-are {
+    font-size: var(--font-size-base);
+  }
+}

@@ -1,0 +1,884 @@
+.path-21-icon {
+  width: 84.563rem;
+  height: 118.875rem;
+  position: absolute;
+  margin: 0 !important;
+  top: -39.625rem;
+  left: -15.875rem;
+}
+.back-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4.513rem;
+  height: 4.513rem;
+  object-fit: cover;
+}
+.back1 {
+  margin: 0;
+  position: absolute;
+  top: 1.175rem;
+  left: 3.563rem;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 6rem;
+  height: 1.988rem;
+  min-width: 6rem;
+  z-index: 1;
+}
+.back-group,
+.day-serengeti-camping1 {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 1;
+}
+.back-group {
+  width: 9.563rem;
+  height: 4.513rem;
+  cursor: pointer;
+}
+.day-serengeti-camping1 {
+  margin: 0;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-serengeti-camping-tour-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-26xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-heavy);
+}
+.arusha-to-serengeti-travel {
+  width: 33rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2.863rem;
+  max-width: 100%;
+}
+.experience-the-best {
+  margin-block-start: 0;
+  margin-block-end: 13px;
+}
+.embark-on-an-container1 {
+  height: 18.813rem;
+  width: 63.625rem;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.embark-on-an-exclusive-private-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-light);
+}
+.arusha-to-serengeti-travel-parent,
+.day-inner3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.arusha-to-serengeti-travel-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-37xl);
+}
+.day-inner3 {
+  width: 75.563rem;
+  flex-direction: row;
+  padding: 0 var(--padding-27xl) var(--padding-68xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-19xl);
+  color: var(--color-black);
+  font-family: var(--font-nexa-black);
+}
+.day-13,
+.itinerary1 {
+  margin: 0;
+  position: relative;
+  font-weight: 400;
+}
+.itinerary1 {
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-nexa-black);
+  color: var(--color-royalblue);
+}
+.day-13 {
+  font-size: inherit;
+  font-family: inherit;
+}
+.day-1-arusha-to-serengeti-na-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.day-22 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-2-serengeti-national-par-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.day-34,
+.day-35 {
+  display: inline-block;
+  max-width: 100%;
+}
+.day-34,
+.day-35,
+.day-36,
+.day-37 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-37 {
+  display: inline-block;
+  max-width: 100%;
+}
+.day-3-ngorongoro-crater-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-35xl);
+}
+.day-3-ngorongoro-crater-parent,
+.itinerary-group,
+.return-to-arusha {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.itinerary-group {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-23xl);
+}
+.return-to-arusha {
+  width: 76.313rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-137xl);
+  box-sizing: border-box;
+}
+.day-14 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-1-arusha-to-serengeti-na-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-14xl);
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-child10 {
+  height: 25.969rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.day-inner4 {
+  align-self: stretch;
+  height: 28.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-14xl-5);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child11 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.start-your-adventure1 {
+  height: 19.456rem;
+  width: 53.494rem;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.day-in-serengeti-national-park,
+.rectangle-parent6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent6 {
+  flex: 1;
+  justify-content: center;
+  padding: 3.938rem var(--padding-xl) 3.919rem;
+  position: relative;
+}
+.day-in-serengeti-national-park {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 var(--padding-smi);
+}
+.day-2-tarangire,
+.national-park {
+  margin: 0;
+}
+.day-2-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: var(--font-nexa-black);
+  color: var(--color-royalblue);
+}
+.day-in-serengeti-national-park-parent {
+  width: 72.813rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-56xl);
+  max-width: 100%;
+}
+.day-inner5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) var(--padding-14xl) var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.frame-child12 {
+  height: 25.969rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.day-inner6 {
+  align-self: stretch;
+  height: 28.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-14xl-5);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child13 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.prepare-for-a3 {
+  height: 18.313rem;
+  width: 55.5rem;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-wrapper2,
+.rectangle-parent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent7 {
+  flex: 1;
+  justify-content: center;
+  padding: 4.5rem var(--padding-xl);
+  position: relative;
+}
+.frame-wrapper2 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-5xl);
+}
+.day-38 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: var(--font-nexa-black);
+  color: var(--color-royalblue);
+  text-align: left;
+}
+.day-inner7,
+.frame-parent3 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent3 {
+  width: 72.688rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-56xl);
+}
+.day-inner7 {
+  width: 118.438rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-14xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.frame-child14 {
+  height: 25.969rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.day-inner8 {
+  align-self: stretch;
+  height: 28.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-14xl-5);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child15 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.set-off-on3 {
+  width: 54.688rem;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-51xl) var(--padding-xl);
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.day-39 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-3-ngorongoro-crater-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.day-inner9,
+.frame-parent4 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent4 {
+  width: 71.188rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-56xl);
+}
+.day-inner9 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) var(--padding-14xl) var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.frame-child16 {
+  height: 25.969rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.day-inner10 {
+  align-self: stretch;
+  height: 28.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-14xl-5);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child17 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.set-off-on4 {
+  height: 13.063rem;
+  flex: 1;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent9 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7.125rem 3.813rem;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.conservation-area,
+.day-5-serengeti {
+  margin: 0;
+}
+.day-3-container1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: var(--font-nexa-black);
+  color: var(--color-royalblue);
+}
+.day-inner11,
+.frame-parent5 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent5 {
+  width: 71.25rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-56xl);
+}
+.day-inner11 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.frame-child18 {
+  height: 25.969rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.day-inner12 {
+  align-self: stretch;
+  height: 28.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-14xl-5);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child19 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.set-off-on5 {
+  height: 13.188rem;
+  width: 58.25rem;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent10 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-94xl) var(--padding-xl);
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.day-6-ngorongoro,
+.to-arusha {
+  margin: 0;
+}
+.day-3-container2 {
+  margin: 0;
+  width: 59.125rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.day-3-ngorongoro-crater-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-parent6 {
+  width: 71.188rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-56xl);
+  max-width: 100%;
+}
+.day-inner13,
+.day3 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.day-inner13 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.day3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-19xl) 0 var(--padding-94xl);
+  gap: var(--gap-23xl);
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-light);
+}
+@media screen and (max-width: 1200px) {
+  .day-inner3 {
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .day-in-serengeti-national-park-parent,
+  .frame-parent3,
+  .frame-parent4 {
+    gap: 2.313rem 4.688rem;
+  }
+  .rectangle-parent9 {
+    padding-left: var(--padding-11xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .frame-parent5,
+  .frame-parent6 {
+    gap: 2.313rem 4.688rem;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .back1 {
+    font-size: var(--font-size-11xl);
+  }
+  .day-serengeti-camping1 {
+    font-size: var(--font-size-17xl);
+  }
+  .itinerary1 {
+    font-size: var(--font-size-13xl);
+  }
+  .day-13,
+  .day-22,
+  .day-34,
+  .day-35,
+  .day-36,
+  .day-37 {
+    font-size: var(--font-size-5xl);
+  }
+  .day-14,
+  .day-2-container,
+  .day-3-container1,
+  .day-3-container2,
+  .day-38,
+  .day-39 {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .arusha-to-serengeti-travel {
+    gap: 1.438rem 2.863rem;
+  }
+  .arusha-to-serengeti-travel-parent {
+    gap: 1.75rem 3.5rem;
+  }
+  .day-inner3,
+  .return-to-arusha {
+    padding-bottom: var(--padding-38xl);
+    box-sizing: border-box;
+  }
+  .return-to-arusha {
+    padding-bottom: var(--padding-82xl);
+  }
+  .day-in-serengeti-national-park-parent,
+  .frame-parent3,
+  .frame-parent4,
+  .frame-parent5,
+  .frame-parent6 {
+    gap: 1.188rem 4.688rem;
+  }
+  .day3 {
+    gap: 1.313rem 2.625rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .back1 {
+    font-size: var(--font-size-4xl);
+  }
+  .day-serengeti-camping1 {
+    font-size: var(--font-size-8xl);
+  }
+  .embark-on-an-container1 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .itinerary1 {
+    font-size: var(--font-size-5xl);
+  }
+  .day-13,
+  .day-22,
+  .day-34,
+  .day-35,
+  .day-36,
+  .day-37 {
+    font-size: var(--font-size-lg);
+  }
+  .day-3-ngorongoro-crater-parent {
+    gap: 1.688rem 3.375rem;
+  }
+  .itinerary-group {
+    gap: 1.313rem 2.625rem;
+  }
+  .day-14 {
+    font-size: var(--font-size-5xl);
+  }
+  .start-your-adventure1 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .rectangle-parent6 {
+    padding-top: var(--padding-22xl);
+    padding-bottom: var(--padding-22xl);
+    box-sizing: border-box;
+  }
+  .day-2-container {
+    font-size: var(--font-size-5xl);
+  }
+  .prepare-for-a3 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .rectangle-parent7 {
+    padding-top: var(--padding-28xl);
+    padding-bottom: var(--padding-28xl);
+    box-sizing: border-box;
+  }
+  .day-38 {
+    font-size: var(--font-size-5xl);
+  }
+  .set-off-on3 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .rectangle-parent8 {
+    padding-top: var(--padding-26xl);
+    padding-bottom: var(--padding-26xl);
+    box-sizing: border-box;
+  }
+  .day-39 {
+    font-size: var(--font-size-5xl);
+  }
+  .set-off-on4 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .rectangle-parent9 {
+    padding-top: var(--padding-55xl);
+    padding-bottom: var(--padding-55xl);
+    box-sizing: border-box;
+  }
+  .day-3-container1 {
+    font-size: var(--font-size-5xl);
+  }
+  .set-off-on5 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .rectangle-parent10 {
+    padding-top: var(--padding-54xl);
+    padding-bottom: var(--padding-54xl);
+    box-sizing: border-box;
+  }
+  .day-3-container2 {
+    font-size: var(--font-size-5xl);
+  }
+}

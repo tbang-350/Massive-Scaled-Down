@@ -1,0 +1,84 @@
+.day-lodge-safari {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.mask-group-icon1 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.div4,
+.per-person4 {
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+.div4 {
+  min-width: 6.775rem;
+  white-space: nowrap;
+}
+.per-person4 {
+  min-width: 5.381rem;
+}
+.frame-wrapper10,
+.group,
+.per-person-container1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.per-person-container1 {
+  flex-direction: row;
+  padding: 0 var(--padding-2xs) 0 0.675rem;
+  font-size: var(--font-size-xs);
+}
+.frame-wrapper10,
+.group {
+  flex-direction: column;
+}
+.group {
+  gap: 0.562rem;
+}
+.frame-wrapper10 {
+  padding: var(--padding-mid-5) 0 0;
+  color: var(--color-white);
+}
+.day-lodge-safari-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2.45rem var(--padding-17xl) 14.344rem 2.069rem;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 2;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1050px) {
+  .day-lodge-safari,
+  .div4 {
+    font-size: var(--font-size-5xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .day-lodge-safari,
+  .div4 {
+    font-size: var(--font-size-lg);
+  }
+}

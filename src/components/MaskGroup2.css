@@ -1,0 +1,107 @@
+.day-camp,
+.safari {
+  margin: 0;
+}
+.day-camp-safari {
+  position: absolute;
+  top: 2.444rem;
+  left: 2.069rem;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 13.513rem;
+  height: 3.763rem;
+  z-index: 1;
+}
+.path-15-icon {
+  position: absolute;
+  top: calc(50% - 168.95px);
+  left: calc(50% + 158.65px);
+  width: 11.4rem;
+  height: 10.556rem;
+}
+.view-this-trip {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-nexa-black);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.view-this-trip-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-darkorange);
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-lg) var(--padding-xl);
+  box-sizing: border-box;
+  white-space: nowrap;
+  height: 100%;
+}
+.mask-group-inner {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 15.688rem;
+  left: 11.688rem;
+  width: 20.125rem;
+  height: 3.25rem;
+  z-index: 2;
+}
+.div {
+  position: absolute;
+  top: 3.538rem;
+  left: 33.65rem;
+  display: inline-block;
+  width: 6.738rem;
+  height: 1.881rem;
+  min-width: 6.738rem;
+  white-space: nowrap;
+  z-index: 3;
+}
+.span {
+  font-family: var(--font-inter);
+}
+.per-person {
+  position: absolute;
+  top: 5.981rem;
+  left: 34.325rem;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 5.419rem;
+  height: 0.944rem;
+  min-width: 5.419rem;
+  z-index: 3;
+}
+.mask-group {
+  position: absolute;
+  top: 45.431rem;
+  left: 50.875rem;
+  width: 42.644rem;
+  height: 21.119rem;
+  overflow: hidden;
+  z-index: 2;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1050px) {
+  .day-camp-safari,
+  .div {
+    font-size: var(--font-size-5xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .day-camp-safari,
+  .div {
+    font-size: var(--font-size-lg);
+  }
+}

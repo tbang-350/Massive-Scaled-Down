@@ -1,0 +1,336 @@
+.back-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4.513rem;
+  height: 4.513rem;
+  object-fit: cover;
+}
+.back6 {
+  margin: 0;
+  position: absolute;
+  top: 1.175rem;
+  left: 3.563rem;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 6rem;
+  height: 1.988rem;
+  min-width: 6rem;
+  z-index: 1;
+}
+.back-parent4 {
+  width: 9.563rem;
+  height: 4.513rem;
+  position: relative;
+  cursor: pointer;
+  z-index: 1;
+}
+.day-serengeti-camping2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 1;
+}
+.embark-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-31xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-26xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-heavy);
+}
+.take-it-easy {
+  margin-block-start: 0;
+  margin-block-end: 13px;
+}
+.embark-on-an-container4 {
+  height: 12.563rem;
+  width: 64.625rem;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.exclusive-safari,
+.gratuities-tips2 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.gratuities-tips2 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-light);
+}
+.exclusive-safari {
+  width: 69.375rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 2.494rem;
+}
+.included-label {
+  align-self: stretch;
+  flex: 1;
+  background-color: var(--color-white);
+  max-width: 100%;
+}
+.included5 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.full-day-expedition1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.frame-child72 {
+  height: 2.444rem;
+  width: 2.444rem;
+}
+.accommodation5,
+.frame-child72 {
+  position: relative;
+}
+.accommodation-wrapper2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.frame-parent68,
+.frame-parent69 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent69 {
+  flex-direction: row;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-6xl);
+}
+.frame-parent68 {
+  flex-direction: column;
+  gap: var(--gap-34xl);
+  min-width: 24.631rem;
+  max-width: 100%;
+}
+.itinerary-summary-child {
+  height: 2.444rem;
+  width: 2.444rem;
+  position: relative;
+}
+.round-trip-airport-transfer5 {
+  position: relative;
+  text-transform: capitalize;
+}
+.round-trip-airport-transfer-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.frame-parent70,
+.itinerary-summary1 {
+  justify-content: flex-start;
+  gap: var(--gap-20xl);
+}
+.itinerary-summary1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent70 {
+  width: 26.569rem;
+  flex-direction: column;
+  min-width: 26.569rem;
+}
+.frame-parent67,
+.frame-parent70,
+.ngorongoro-crater {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent67 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 var(--padding-35xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-xbold);
+}
+.ngorongoro-crater {
+  width: 67.138rem;
+  margin: 0 !important;
+  position: absolute;
+  top: 3.625rem;
+  left: 2.938rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-14xl);
+  z-index: 1;
+}
+.container5,
+.international-flights {
+  align-self: stretch;
+  box-sizing: border-box;
+  display: flex;
+  max-width: 100%;
+}
+.international-flights {
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  position: relative;
+}
+.container5 {
+  width: 72.844rem;
+  border-radius: var(--br-8xs);
+  border: 5px solid var(--color-darkorange);
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.container-wrapper2 {
+  align-self: stretch;
+  height: 72.563rem;
+  flex-direction: row;
+  justify-content: flex-end;
+  font-size: var(--font-size-11xl);
+  color: var(--color-royalblue);
+}
+.container-wrapper2,
+.exclusive-safari-parent,
+.safariblue-inner1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.exclusive-safari-parent {
+  width: 90.344rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-51xl);
+}
+.safariblue-inner1 {
+  width: 101.969rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-55xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-19xl);
+  color: var(--color-black);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1200px) {
+  .safariblue-inner1 {
+    padding-bottom: var(--padding-29xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .back6 {
+    font-size: var(--font-size-11xl);
+  }
+  .day-serengeti-camping2 {
+    font-size: var(--font-size-17xl);
+  }
+  .included5 {
+    font-size: var(--font-size-5xl);
+  }
+  .frame-parent68,
+  .frame-parent70 {
+    flex: 1;
+  }
+  .frame-parent67 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .safariblue-inner1 {
+    padding-bottom: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .exclusive-safari {
+    gap: 1.25rem 2.494rem;
+  }
+  .frame-parent68 {
+    min-width: 100%;
+  }
+  .itinerary-summary1 {
+    flex-wrap: wrap;
+  }
+  .frame-parent70 {
+    min-width: 100%;
+  }
+  .exclusive-safari-parent {
+    gap: 2.188rem 4.375rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .back6 {
+    font-size: var(--font-size-4xl);
+  }
+  .day-serengeti-camping2 {
+    font-size: var(--font-size-8xl);
+  }
+  .embark-button {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .embark-on-an-container4 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .included5 {
+    font-size: var(--font-size-lg);
+  }
+  .accommodation5 {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent69 {
+    flex-wrap: wrap;
+  }
+  .round-trip-airport-transfer5 {
+    font-size: var(--font-size-base);
+  }
+  .exclusive-safari-parent {
+    gap: 1.063rem 4.375rem;
+  }
+  .safariblue-inner1 {
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,130 @@
+.back-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4.513rem;
+  height: 4.513rem;
+  object-fit: cover;
+}
+.back4 {
+  margin: 0;
+  position: absolute;
+  top: 1.175rem;
+  left: 3.563rem;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 6rem;
+  height: 1.988rem;
+  min-width: 6rem;
+  z-index: 1;
+}
+.back-parent2 {
+  width: 10.813rem;
+  height: 4.513rem;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  cursor: pointer;
+  z-index: 1;
+}
+.day-lake-manyara,
+.ngorongoro-camping-tour {
+  margin: 0;
+}
+.day-serengeti-camping-container1 {
+  margin: 0;
+  height: 14.375rem;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 1;
+}
+.explore-the-wonders {
+  margin-block-start: 0;
+  margin-block-end: 13px;
+}
+.embark-on-an-container3 {
+  height: 12.375rem;
+  width: 64.188rem;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -6.187rem;
+  left: 2.375rem;
+  font-size: var(--font-size-6xl);
+  line-height: 3.125rem;
+  font-family: var(--font-nexa-light);
+  color: var(--color-gray-100);
+  display: inline-block;
+  z-index: 2;
+}
+.day-serengeti-camping-tour-parent {
+  width: 116.438rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 1863%;
+  flex-shrink: 0;
+}
+.day-inner20,
+.frame-header,
+.frame-wrapper4 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.frame-wrapper4 {
+  width: 12.875rem;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-34xl);
+  font-size: var(--font-size-26xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-heavy);
+}
+.day-inner20,
+.frame-header {
+  flex-shrink: 0;
+}
+.frame-header {
+  width: 117.813rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  gap: 3.3rem;
+  debug_commit: f6aba90;
+  text-align: left;
+  font-size: var(--font-size-19xl);
+  color: var(--color-black);
+  font-family: var(--font-nexa-black);
+}
+.day-inner20 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-72xl);
+  max-width: 100%;
+}
+@media screen and (max-width: 1200px) {
+  .frame-wrapper4 {
+    padding-left: var(--padding-7xl);
+    padding-right: var(--padding-7xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .day-inner20 {
+    padding-bottom: var(--padding-40xl);
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,266 @@
+.frame-child53 {
+  align-self: stretch;
+  flex: 1;
+  background-color: var(--color-white);
+  max-width: 100%;
+}
+.included1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.included-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.frame-child54 {
+  height: 2.444rem;
+  width: 2.444rem;
+}
+.accommodation1,
+.frame-child54 {
+  position: relative;
+}
+.accommodation-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.frame-parent35,
+.frame-parent36 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent36 {
+  flex-direction: row;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-6xl);
+}
+.frame-parent35 {
+  flex-direction: column;
+  gap: var(--gap-34xl);
+  min-width: 24.631rem;
+  max-width: 100%;
+}
+.frame-child55 {
+  height: 2.444rem;
+  width: 2.444rem;
+  position: relative;
+}
+.round-trip-airport-transfer1 {
+  position: relative;
+  text-transform: capitalize;
+}
+.transportation {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.frame-parent38 {
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: var(--gap-20xl);
+}
+.frame-parent34,
+.frame-parent37,
+.frame-parent38 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent37 {
+  width: 26.569rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-20xl);
+  min-width: 26.569rem;
+}
+.frame-parent34 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 var(--padding-35xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-xbold);
+}
+.frame-parent32,
+.frame-parent33 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent33 {
+  width: 67.138rem;
+  margin: 0 !important;
+  position: absolute;
+  top: 3.625rem;
+  left: 2.938rem;
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-14xl);
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-parent32 {
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  position: relative;
+}
+.container-container,
+.container1,
+.frame-parent32 {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.container1 {
+  width: 72.844rem;
+  border-radius: var(--br-8xs);
+  border: 5px solid var(--color-darkorange);
+  box-sizing: border-box;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.container-container {
+  height: 72.563rem;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.day-17,
+.day-26,
+.itinerary3 {
+  margin: 0;
+  position: relative;
+  font-weight: 400;
+}
+.itinerary3 {
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-nexa-black);
+  color: var(--color-royalblue);
+}
+.day-17,
+.day-26 {
+  font-size: inherit;
+  font-family: inherit;
+  display: inline-block;
+}
+.day-17 {
+  height: 1.875rem;
+}
+.day-26 {
+  white-space: pre-wrap;
+  max-width: 100%;
+}
+.arusha-to-serengeti {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-light);
+}
+.day-inner21,
+.frame-parent31 {
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-parent31 {
+  width: 87.281rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-71xl);
+  debug_commit: f6aba90;
+}
+.day-inner21 {
+  width: 105.531rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-18xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1050px) {
+  .included1 {
+    font-size: var(--font-size-5xl);
+  }
+  .frame-parent35,
+  .frame-parent37 {
+    flex: 1;
+  }
+  .frame-parent34 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .itinerary3 {
+    font-size: var(--font-size-13xl);
+  }
+  .day-17,
+  .day-26 {
+    font-size: var(--font-size-5xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent35 {
+    min-width: 100%;
+  }
+  .frame-parent38 {
+    flex-wrap: wrap;
+  }
+  .frame-parent37 {
+    min-width: 100%;
+  }
+  .frame-parent31 {
+    gap: 2.813rem 5.625rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .included1 {
+    font-size: var(--font-size-lg);
+  }
+  .accommodation1 {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent36 {
+    flex-wrap: wrap;
+  }
+  .round-trip-airport-transfer1 {
+    font-size: var(--font-size-base);
+  }
+  .itinerary3 {
+    font-size: var(--font-size-5xl);
+  }
+  .day-17,
+  .day-26 {
+    font-size: var(--font-size-lg);
+  }
+  .frame-parent31 {
+    gap: 1.375rem 5.625rem;
+  }
+}

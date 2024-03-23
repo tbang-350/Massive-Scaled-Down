@@ -1,0 +1,115 @@
+.frame-child56 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.explore-the-park-fully {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+}
+.start-your-adventure5 {
+  width: 62.881rem;
+  position: relative;
+  line-height: 3.188rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.explore-the-park-fully-parent,
+.prepare-for-tour {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.explore-the-park-fully-parent {
+  width: 71.188rem;
+  justify-content: flex-end;
+  padding: 2.756rem var(--padding-27xl) 2.275rem;
+  position: relative;
+}
+.prepare-for-tour {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+}
+.day-27 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-2-serengeti-national-par-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-parent39 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.266rem;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+@media screen and (max-width: 1200px) {
+  .explore-the-park-fully-parent {
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .day-27 {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent39 {
+    gap: 1.625rem 3.269rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .start-your-adventure5 {
+    font-size: var(--font-size-xl);
+    line-height: 2.563rem;
+  }
+  .explore-the-park-fully-parent {
+    padding-top: var(--padding-10xl);
+    padding-bottom: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+  .day-27 {
+    font-size: var(--font-size-5xl);
+  }
+}

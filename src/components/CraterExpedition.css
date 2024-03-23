@@ -1,0 +1,160 @@
+.itinerary5 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.itinerary-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs);
+}
+.convenient-pickup-and-briefing {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-14xl);
+}
+.day-1-container {
+  width: 25.813rem;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.sail-to-menai-bay-conservation1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-14xl);
+}
+.day-2-container2 {
+  position: relative;
+}
+.kwale-island-and-seafood-platt1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-14xl);
+}
+.day-3-container4 {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.day-1-arusha-to-serengeti-na-parent,
+.frame-parent72 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.day-1-arusha-to-serengeti-na-parent {
+  gap: var(--gap-sm);
+  font-size: var(--font-size-6xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-light);
+}
+.frame-parent72 {
+  gap: var(--gap-7xl);
+}
+.convenient-pickup-and-briefing1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-28xl);
+}
+.day-1-container1 {
+  margin: 0;
+  width: 44.813rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.arusha-to-serengeti2 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.arusha-to-serengeti2,
+.crater-expedition-inner,
+.frame-parent71 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent71 {
+  width: 72.063rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-63xl);
+}
+.crater-expedition-inner {
+  width: 92.688rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.crater-expedition-child {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.crater-expedition {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xl-5);
+  box-sizing: border-box;
+  gap: var(--gap-13xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1200px) {
+  .frame-parent71 {
+    gap: 2.563rem 5.125rem;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .day-1-container1,
+  .itinerary5 {
+    font-size: var(--font-size-9xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent71 {
+    gap: 1.25rem 5.125rem;
+  }
+  .crater-expedition {
+    gap: 1rem 2rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .itinerary5 {
+    font-size: var(--font-size-2xl);
+  }
+  .day-1-container,
+  .day-2-container2,
+  .day-3-container4 {
+    font-size: var(--font-size-xl);
+  }
+  .day-1-container1 {
+    font-size: var(--font-size-2xl);
+  }
+}

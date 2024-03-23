@@ -1,0 +1,687 @@
+.path-20-icon2 {
+  width: 84.563rem;
+  height: 118.875rem;
+  position: absolute;
+  margin: 0 !important;
+  top: -40.062rem;
+  left: -12.125rem;
+}
+.back-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4.513rem;
+  height: 4.513rem;
+  object-fit: cover;
+}
+.back {
+  margin: 0;
+  position: absolute;
+  top: 1.175rem;
+  left: 3.563rem;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 6rem;
+  height: 1.988rem;
+  min-width: 6rem;
+  z-index: 1;
+}
+.back-parent,
+.day-serengeti-camping {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 1;
+}
+.back-parent {
+  width: 9.563rem;
+  height: 4.513rem;
+  cursor: pointer;
+}
+.day-serengeti-camping {
+  margin: 0;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-serengeti-camping-tour-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-26xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-heavy);
+}
+.frame-div {
+  width: 34.688rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2.863rem;
+  max-width: 100%;
+}
+.immerse-yourself-in {
+  margin-block-start: 0;
+  margin-block-end: 13px;
+}
+.embark-on-an-container {
+  height: 13.063rem;
+  width: 61.5rem;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.exclusive-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-light);
+}
+.frame-container,
+.v-e-c-t-o-r-path {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-container {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-40xl);
+}
+.v-e-c-t-o-r-path {
+  width: 71.5rem;
+  flex-direction: row;
+  padding: 0 var(--padding-22xl) var(--padding-14xl);
+  box-sizing: border-box;
+}
+.itinerary {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  font-weight: 400;
+  font-family: var(--font-nexa-black);
+  color: var(--color-royalblue);
+}
+.day-11,
+.day-2 {
+  display: inline-block;
+  max-width: 100%;
+}
+.day-11,
+.day-2,
+.day-31,
+.day-32 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-32 {
+  display: inline-block;
+  max-width: 100%;
+}
+.itinerary-parent,
+.three-day-adventure {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.itinerary-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 3.063rem;
+}
+.three-day-adventure {
+  width: 72.688rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-57xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-light);
+}
+.day-12 {
+  margin: 0;
+  height: 2.5rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.day-one {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+}
+.frame-child2 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.day-one-parent {
+  align-self: stretch;
+  height: 32.063rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-9xs-5);
+  box-sizing: border-box;
+  gap: var(--gap-35xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-child3 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.start-your-adventure {
+  height: 16.75rem;
+  flex: 1;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-wrapper1,
+.rectangle-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent2 {
+  flex: 1;
+  padding: var(--padding-57xl) var(--padding-31xl);
+  position: relative;
+  min-height: 27.313rem;
+}
+.frame-wrapper1 {
+  align-self: stretch;
+  padding: 0 var(--padding-5xs) 0 var(--padding-6xs);
+}
+.day-21 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: var(--font-nexa-black);
+  color: var(--color-royalblue);
+  text-align: left;
+}
+.day-two,
+.frame-parent1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent1 {
+  width: 72.125rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-32xl);
+}
+.day-two {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.frame-child4 {
+  height: 25.969rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.day-child {
+  align-self: stretch;
+  height: 26.75rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0.781rem;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child5 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.prepare-for-a2 {
+  height: 20.375rem;
+  width: 57.563rem;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-37xl) var(--padding-xl) var(--padding-36xl);
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.day-3-serengeti,
+.ngorongoro-conservation-area {
+  margin: 0;
+}
+.day-3-container {
+  margin: 0;
+  width: 50.938rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.crater-days {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.crater-days,
+.frame-parent2,
+.frame-section {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent2 {
+  width: 71.188rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 4.063rem;
+}
+.frame-section {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 1.188rem var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.frame-child6 {
+  height: 25.969rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.day-inner1 {
+  align-self: stretch;
+  height: 26.188rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-9xs-5);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child7 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.set-off-on1 {
+  flex: 1;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.full-day-expedition-inner,
+.rectangle-parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent4 {
+  flex: 1;
+  padding: var(--padding-21xl) var(--padding-61xl) 2.513rem;
+  position: relative;
+}
+.full-day-expedition-inner {
+  align-self: stretch;
+  padding: 0 var(--padding-10xl) 0 var(--padding-9xl);
+}
+.day-33 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: var(--font-nexa-black);
+  color: var(--color-royalblue);
+  text-align: left;
+}
+.full-day-expedition {
+  width: 74.75rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.3rem;
+  max-width: 100%;
+}
+.full-day-expedition-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0.188rem;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.frame-child8 {
+  height: 25.969rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.day-inner2 {
+  align-self: stretch;
+  height: 26.125rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0.156rem;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child9 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.set-off-on2 {
+  height: 18.125rem;
+  width: 55.438rem;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent5 {
+  width: 71.188rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-55xl) var(--padding-xl) var(--padding-54xl);
+  position: relative;
+  max-width: 100%;
+}
+.day2,
+.full-day-exploration,
+.rectangle-parent5 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.full-day-exploration {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.day2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-19xl) 0 var(--padding-72xl);
+  gap: var(--gap-32xl);
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-19xl);
+  color: var(--color-black);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1200px) {
+  .rectangle-parent2 {
+    padding-left: var(--padding-6xl);
+    padding-right: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+  .frame-parent2 {
+    gap: 2rem 4.063rem;
+  }
+  .rectangle-parent4 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .back {
+    font-size: var(--font-size-11xl);
+  }
+  .day-serengeti-camping {
+    font-size: var(--font-size-17xl);
+  }
+  .itinerary {
+    font-size: var(--font-size-13xl);
+  }
+  .day-11,
+  .day-2,
+  .day-31,
+  .day-32 {
+    font-size: var(--font-size-5xl);
+  }
+  .day-12,
+  .day-21,
+  .day-3-container,
+  .day-33 {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-div {
+    gap: 1.438rem 2.863rem;
+  }
+  .frame-container {
+    gap: 1.813rem 3.688rem;
+  }
+  .day-one-parent {
+    gap: 1.688rem 3.375rem;
+  }
+  .frame-parent1 {
+    gap: 1.563rem 3.188rem;
+  }
+  .frame-parent2 {
+    gap: 1rem 4.063rem;
+  }
+  .full-day-expedition {
+    gap: 1.625rem 3.3rem;
+  }
+  .day2 {
+    gap: 1.563rem 3.188rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .back {
+    font-size: var(--font-size-4xl);
+  }
+  .day-serengeti-camping {
+    font-size: var(--font-size-8xl);
+  }
+  .embark-on-an-container {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .itinerary {
+    font-size: var(--font-size-5xl);
+  }
+  .day-11,
+  .day-2,
+  .day-31,
+  .day-32 {
+    font-size: var(--font-size-lg);
+  }
+  .itinerary-parent {
+    gap: 1.5rem 3.063rem;
+  }
+  .three-day-adventure {
+    padding-bottom: var(--padding-30xl);
+    box-sizing: border-box;
+  }
+  .day-12 {
+    font-size: var(--font-size-5xl);
+  }
+  .start-your-adventure {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .rectangle-parent2 {
+    padding-top: var(--padding-30xl);
+    padding-bottom: var(--padding-30xl);
+    box-sizing: border-box;
+  }
+  .day-21 {
+    font-size: var(--font-size-5xl);
+  }
+  .prepare-for-a2 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .rectangle-parent3 {
+    padding-top: var(--padding-17xl);
+    padding-bottom: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+  .day-3-container {
+    font-size: var(--font-size-5xl);
+  }
+  .set-off-on1 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .day-33 {
+    font-size: var(--font-size-5xl);
+  }
+  .set-off-on2 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .rectangle-parent5 {
+    padding-top: var(--padding-29xl);
+    padding-bottom: var(--padding-28xl);
+    box-sizing: border-box;
+  }
+}

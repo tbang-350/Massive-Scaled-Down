@@ -1,0 +1,129 @@
+.frame-child51 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+}
+.start-your-adventure4 {
+  height: 21.063rem;
+  width: 57.063rem;
+  position: relative;
+  line-height: 3.125rem;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent22 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-31xl) var(--padding-xl);
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.day-25 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-2-serengeti-national-par-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-3xl) 0 var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-parent30,
+.serengeti-national-park1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent30 {
+  width: 71.188rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-59xl);
+}
+.serengeti-national-park1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.frame-child52 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.serengeti-national-park-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-6xs-5);
+  box-sizing: border-box;
+  gap: var(--gap-16xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+@media screen and (max-width: 1200px) {
+  .frame-parent30 {
+    gap: 2.438rem 4.875rem;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .day-25 {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent30 {
+    gap: 1.188rem 4.875rem;
+  }
+  .serengeti-national-park-parent {
+    gap: 1.063rem 2.188rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .start-your-adventure4 {
+    font-size: var(--font-size-xl);
+    line-height: 2.5rem;
+  }
+  .rectangle-parent22 {
+    padding-top: var(--padding-13xl);
+    padding-bottom: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+  .day-25 {
+    font-size: var(--font-size-5xl);
+  }
+}
